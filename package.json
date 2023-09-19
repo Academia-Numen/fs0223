@@ -4,7 +4,7 @@
   "description": "esto es un servidor basico de prueba",
   "main": "app.js",
   "scripts": {
-    "dev": "node server.js"
+    "start": "node server.js"
   },
   "author": "NTT Data",
   "license": "ISC",
